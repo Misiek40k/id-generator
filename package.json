@@ -1,0 +1,8 @@
+{
+  "name": "@misiek40k/node-id-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Misiek40k/node-id-generator.git",
+  "author": "Misiek40k <comanderrr@gmail.com>",
+  "license": "MIT"
+}
